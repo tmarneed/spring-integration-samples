@@ -9,6 +9,7 @@ Welcome to the **Spring Integration Samples** repository which provides **50+ sa
 * Intermediate
 * Advanced
 * Applications
+*my test
 
 Inside of each category you'll find a **README.md** file, which will contain a more detailed description of that category. Each sample also comes with its own **README.md** file explaining further details, e.g. how to run the respective sample.
 
